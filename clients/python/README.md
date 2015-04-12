@@ -14,7 +14,7 @@ in a single contract.
 
 ```
 sudo apt-get install git
-git clone https://github.com/MimeticMarkets/sputnik
+git clone https://github.com/criptobanco/sputnik
 sudo apt-get install python-pip python-scipy python-twisted python-dateutil python-bs4
 sudo pip install autobahn==0.9.3
 sudo pip install treq pycrypto pyee
