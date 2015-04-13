@@ -15,7 +15,7 @@ The default port for websockets is 8443. A typical session runs as follows:
 
 The websockets endpoint is:
 
-wss://hostname:8443/ws
+wss://criptobanco.io:8443/ws
 
 For information on the REST api, see REST.md
 
