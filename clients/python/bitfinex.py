@@ -1,5 +1,3 @@
-__author__ = 'sameer'
-
 import treq
 import hmac
 import hashlib
