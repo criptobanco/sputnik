@@ -1,6 +1,3 @@
-__author__ = 'sameer'
-
-
 import treq
 import json
 from twisted.internet.defer import inlineCallbacks, returnValue
