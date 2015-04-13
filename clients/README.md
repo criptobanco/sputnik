@@ -45,7 +45,7 @@ details about that specific error, for example the invalid data passed to the fu
 ## Denominations
 
 All prices and quantities are stored as integers and transmitted over the network as integers. Read
-the denominations specification: https://github.com/MimeticMarkets/sputnik/blob/master/clients/Denominations.md
+the denominations specification: https://github.com/criptobanco/sputnik/blob/master/clients/Denominations.md
 
 ## Data formats
 
