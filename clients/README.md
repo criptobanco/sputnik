@@ -17,7 +17,7 @@ The default port for websockets is 8443. A typical session runs as follows:
 
 > wss://criptobanco.io:8443/ws
 
-> For information on the REST api, see REST.md
+> For information on the REST api, see [REST.md](https://github.com/criptobanco/sputnik/blob/master/clients/REST.md)
 
 ## RPC Response Format
 
