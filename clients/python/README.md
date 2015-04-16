@@ -10,8 +10,6 @@ and pooling liquidity among Sputnik exchanges.
 The initial version only supports taking liquidity from a single exchange and providing liquidity on a single exchange
 in a single contract.
 
-![alt text](https://cloud.githubusercontent.com/assets/11865264/7184362/7b1b6c38-e422-11e4-8042-518d2707f928.png)
-
 ### Installation
 
 ```
