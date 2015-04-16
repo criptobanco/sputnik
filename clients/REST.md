@@ -5,11 +5,11 @@ feeds.
 
 The REST endpoint is
 
-https://hostname:8443/api
+https://criptobanco:8443/api
 
 If the WAMPv2 RPC call is "rpc.trader.place_order", then the REST endpoint is:
 
-https://hostname:8443/api/rpc/trader/place_order
+https://criptobanco:8443/api/rpc/trader/place_order
 
 All calls are made with 'POST', with the content of type "application/json".
 
