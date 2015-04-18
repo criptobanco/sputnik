@@ -12,7 +12,7 @@ Our embeddable widget gives you the power to put a very simple buy or sell inter
 
 ## Copy and Paste this HTML iframe into your website:
 ```html
-    <iframe height="406" src="https://criptobanco.io/?widget=trade&contract=BTC/COP" scrolling="no" style="overflow: hidden" frameborder="0"></iframe>
+    <iframe height="406" src="https://criptoban.co/?widget=trade&contract=BTC/COP" scrolling="no" style="overflow: hidden" frameborder="0"></iframe>
 ```
 
 
